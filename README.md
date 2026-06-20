@@ -1,4 +1,4 @@
-# INF8808_DataViz_SportsAIProject
+# World cup Sports AI interactive vizualisation project
 
 ## Windows
 
@@ -38,4 +38,4 @@ In the project folder:
     cd src
     python3.10 server.py
     
-## Open localhost:8050 in your browser
+## Open localhost:8050 in your browser to view !
